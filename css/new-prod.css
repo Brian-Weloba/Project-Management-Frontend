@@ -1,0 +1,15 @@
+body {
+    background-color: white;
+    background-image: url(../res/Wave.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.input-form {
+    margin-top: 3rem;
+    background-color: #2264ab;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    border-radius: .5rem;
+}
