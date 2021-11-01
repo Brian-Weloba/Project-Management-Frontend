@@ -21,7 +21,7 @@ function buildTable(data) {
             <td>${data[i].brand}</td>
             <td>${data[i].price}</td>
             <td>${data[i].quantity}</td>
-            <td>${data[i].variants}</td>
+            <td>${data[i].attributes}</td>
         </tr>
         `
         table.innerHTML += row
